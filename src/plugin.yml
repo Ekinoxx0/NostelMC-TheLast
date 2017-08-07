@@ -1,0 +1,10 @@
+name: TheLast
+version: 1.0
+author: Ekinoxx
+main: fr.nostelmc.thelast.main.TheLast
+
+commands: 
+  debug:
+    description:
+  game:
+    description:
